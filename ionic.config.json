@@ -1,0 +1,7 @@
+{
+  "name": "ExploreAppFlow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
